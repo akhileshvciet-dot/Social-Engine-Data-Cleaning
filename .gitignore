@@ -1,0 +1,8 @@
+# Datasets (submitted separately)
+*.csv
+
+# Generated PDF & chart images
+*.pdf
+eda_charts/
+__pycache__/
+*.pyc
